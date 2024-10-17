@@ -1,0 +1,17 @@
+form{ 
+    background-color: #000000bd;  
+    color: #000000;
+    padding: 25px; 
+    border-radius: 10px; 
+ 
+} 
+
+h2{
+    font-size: 1.0em;
+    text-align: center;
+}
+
+input{
+    justify-content: space-around;
+    display: flex; 
+}
